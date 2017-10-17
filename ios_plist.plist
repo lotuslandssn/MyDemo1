@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.109:8012/downConf/book.ipa</string>
+					<string>https://github.com/lotuslandssn/MyDemo1/raw/master/book.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
